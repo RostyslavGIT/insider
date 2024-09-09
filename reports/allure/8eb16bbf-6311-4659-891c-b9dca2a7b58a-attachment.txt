@@ -1,0 +1,1 @@
+[1m[31mERROR   [0m api_logger:request_client.py:24 Request failed: 404 Client Error: Not Found for url: https://petstore.swagger.io/v2/pet/999999

@@ -1,0 +1,1 @@
+request_client.py -> line: 35 | DEBUG | 2024-09-09 10:03 >>> Making POST request to https://petstore.swagger.io/v2/pet with payload {'id': 123, 'category': {'id': 0, 'name': 'string'}, 'name': 'doggie', 'photoUrls': ['string'], 'tags': [{'id': 0, 'name': 'string'}], 'status': 'available'}

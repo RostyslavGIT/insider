@@ -1,0 +1,9 @@
+base_page.py -> line: 27 | DEBUG | 2024-09-09 10:03 >>> Clicking element with locator: ('xpath', "//a[contains(text(),'Company')]") and timeout: 10
+base_page.py -> line: 18 | DEBUG | 2024-09-09 10:03 >>> Finding element with locator: ('xpath', "//a[contains(text(),'Company')]") and timeout: 10
+base_page.py -> line: 30 | DEBUG | 2024-09-09 10:03 >>> Clicked element successfully.
+base_page.py -> line: 27 | DEBUG | 2024-09-09 10:03 >>> Clicking element with locator: ('xpath', "//a[.='Careers']") and timeout: 10
+base_page.py -> line: 18 | DEBUG | 2024-09-09 10:03 >>> Finding element with locator: ('xpath', "//a[.='Careers']") and timeout: 10
+base_page.py -> line: 30 | DEBUG | 2024-09-09 10:03 >>> Clicked element successfully.
+base_page.py -> line: 18 | DEBUG | 2024-09-09 10:03 >>> Finding element with locator: ('xpath', "//section//h3[contains(text(),'Our Locations')]") and timeout: 10
+base_page.py -> line: 18 | DEBUG | 2024-09-09 10:03 >>> Finding element with locator: ('xpath', "//section[@id='career-find-our-calling']//a[.='See all teams']") and timeout: 10
+base_page.py -> line: 18 | DEBUG | 2024-09-09 10:03 >>> Finding element with locator: ('xpath', "//section//h2[contains(text(),'Life at Insider')]") and timeout: 10

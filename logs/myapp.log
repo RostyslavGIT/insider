@@ -1,0 +1,32 @@
+base_page.py -> line: 27 | DEBUG | 2024-09-09 10:32 >>> Clicking element with locator: ('xpath', "//a[contains(text(),'Company')]") and timeout: 10
+base_page.py -> line: 18 | DEBUG | 2024-09-09 10:32 >>> Finding element with locator: ('xpath', "//a[contains(text(),'Company')]") and timeout: 10
+base_page.py -> line: 30 | DEBUG | 2024-09-09 10:32 >>> Clicked element successfully.
+base_page.py -> line: 27 | DEBUG | 2024-09-09 10:32 >>> Clicking element with locator: ('xpath', "//a[.='Careers']") and timeout: 10
+base_page.py -> line: 18 | DEBUG | 2024-09-09 10:32 >>> Finding element with locator: ('xpath', "//a[.='Careers']") and timeout: 10
+base_page.py -> line: 30 | DEBUG | 2024-09-09 10:32 >>> Clicked element successfully.
+base_page.py -> line: 18 | DEBUG | 2024-09-09 10:32 >>> Finding element with locator: ('xpath', "//section//h3[contains(text(),'Our Locations')]") and timeout: 10
+base_page.py -> line: 18 | DEBUG | 2024-09-09 10:32 >>> Finding element with locator: ('xpath', "//section[@id='career-find-our-calling']//a[.='See all teams']") and timeout: 10
+base_page.py -> line: 18 | DEBUG | 2024-09-09 10:32 >>> Finding element with locator: ('xpath', "//section//h2[contains(text(),'Life at Insider')]") and timeout: 10
+base_page.py -> line: 27 | DEBUG | 2024-09-09 10:33 >>> Clicking element with locator: ('xpath', "//a[.='See all QA jobs']") and timeout: 10
+base_page.py -> line: 18 | DEBUG | 2024-09-09 10:33 >>> Finding element with locator: ('xpath', "//a[.='See all QA jobs']") and timeout: 10
+base_page.py -> line: 30 | DEBUG | 2024-09-09 10:33 >>> Clicked element successfully.
+base_page.py -> line: 64 | DEBUG | 2024-09-09 10:33 >>> Scrolling to the element with locator: ('xpath', "//select[@id='filter-by-location']")
+base_page.py -> line: 18 | DEBUG | 2024-09-09 10:33 >>> Finding element with locator: ('xpath', "//select[@id='filter-by-location']") and timeout: 10
+base_page.py -> line: 67 | DEBUG | 2024-09-09 10:33 >>> Scrolled to the element with locator: ('xpath', "//select[@id='filter-by-location']")
+base_page.py -> line: 39 | DEBUG | 2024-09-09 10:33 >>> Selecting 'Istanbul, Turkey' from dropdown with locator: ('xpath', "//select[@id='filter-by-location']")
+base_page.py -> line: 18 | DEBUG | 2024-09-09 10:33 >>> Finding element with locator: ('xpath', "//select[@id='filter-by-location']") and timeout: 10
+base_page.py -> line: 46 | DEBUG | 2024-09-09 10:33 >>> Selected 'Istanbul, Turkey' successfully.
+base_page.py -> line: 39 | DEBUG | 2024-09-09 10:33 >>> Selecting 'Quality Assurance' from dropdown with locator: ('xpath', "//select[@id='filter-by-department']")
+base_page.py -> line: 18 | DEBUG | 2024-09-09 10:33 >>> Finding element with locator: ('xpath', "//select[@id='filter-by-department']") and timeout: 10
+base_page.py -> line: 46 | DEBUG | 2024-09-09 10:33 >>> Selected 'Quality Assurance' successfully.
+base_page.py -> line: 64 | DEBUG | 2024-09-09 10:33 >>> Scrolling to the element with locator: ('xpath', "//div[@id='jobs-list']/div")
+base_page.py -> line: 18 | DEBUG | 2024-09-09 10:33 >>> Finding element with locator: ('xpath', "//div[@id='jobs-list']/div") and timeout: 10
+base_page.py -> line: 67 | DEBUG | 2024-09-09 10:33 >>> Scrolled to the element with locator: ('xpath', "//div[@id='jobs-list']/div")
+base_page.py -> line: 50 | DEBUG | 2024-09-09 10:33 >>> Hovering over element with locator: ('xpath', "//p[contains(@class, 'position-title')]")
+base_page.py -> line: 18 | DEBUG | 2024-09-09 10:33 >>> Finding element with locator: ('xpath', "//p[contains(@class, 'position-title')]") and timeout: 10
+base_page.py -> line: 54 | DEBUG | 2024-09-09 10:33 >>> Hovered over element with locator: ('xpath', "//p[contains(@class, 'position-title')]")
+base_page.py -> line: 27 | DEBUG | 2024-09-09 10:33 >>> Clicking element with locator: ('xpath', "//a[.='View Role']") and timeout: 10
+base_page.py -> line: 18 | DEBUG | 2024-09-09 10:33 >>> Finding element with locator: ('xpath', "//a[.='View Role']") and timeout: 10
+base_page.py -> line: 30 | DEBUG | 2024-09-09 10:33 >>> Clicked element successfully.
+base_page.py -> line: 58 | DEBUG | 2024-09-09 10:33 >>> Switching to the newly opened tab.
+base_page.py -> line: 60 | DEBUG | 2024-09-09 10:33 >>> Switched to the new tab.

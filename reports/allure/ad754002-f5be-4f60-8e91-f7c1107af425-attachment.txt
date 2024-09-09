@@ -1,0 +1,2 @@
+request_client.py -> line: 29 | DEBUG | 2024-09-09 10:03 >>> Making GET request to https://petstore.swagger.io/v2/pet/999999
+request_client.py -> line: 23 | ERROR | 2024-09-09 10:03 >>> Request failed: 404 Client Error: Not Found for url: https://petstore.swagger.io/v2/pet/999999

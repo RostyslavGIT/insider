@@ -1,0 +1,2 @@
+[35mDEBUG   [0m myapp:request_client.py:47 Making DELETE request to https://petstore.swagger.io/v2/pet/456
+[31m[1mERROR   [0m myapp:request_client.py:23 Request failed: 404 Client Error: Not Found for url: https://petstore.swagger.io/v2/pet/456

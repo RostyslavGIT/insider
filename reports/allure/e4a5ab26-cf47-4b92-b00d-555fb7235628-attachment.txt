@@ -1,0 +1,1 @@
+request_client.py -> line: 29 | DEBUG | 2024-09-09 10:03 >>> Making GET request to https://petstore.swagger.io/v2/pet/123

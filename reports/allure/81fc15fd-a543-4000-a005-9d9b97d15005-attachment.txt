@@ -1,0 +1,9 @@
+[35mDEBUG   [0m myapp:base_page.py:23 Clicking element with locator: ('xpath', "//a[contains(text(),'Company')]") and timeout: 10
+[35mDEBUG   [0m myapp:base_page.py:16 Finding element with locator: ('xpath', "//a[contains(text(),'Company')]") and timeout: 10
+[35mDEBUG   [0m myapp:base_page.py:26 Clicked element successfully.
+[35mDEBUG   [0m myapp:base_page.py:23 Clicking element with locator: ('xpath', "//a[.='Careers']") and timeout: 10
+[35mDEBUG   [0m myapp:base_page.py:16 Finding element with locator: ('xpath', "//a[.='Careers']") and timeout: 10
+[35mDEBUG   [0m myapp:base_page.py:26 Clicked element successfully.
+[35mDEBUG   [0m myapp:base_page.py:16 Finding element with locator: ('xpath', "//section//h3[contains(text(),'Our Locations')]") and timeout: 10
+[35mDEBUG   [0m myapp:base_page.py:16 Finding element with locator: ('xpath', "//section[@id='career-find-our-calling']//a[.='See all teams']") and timeout: 10
+[35mDEBUG   [0m myapp:base_page.py:16 Finding element with locator: ('xpath', "//section//h2[contains(text(),'Life at Insider')]") and timeout: 10

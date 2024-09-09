@@ -1,0 +1,23 @@
+[35mDEBUG   [0m myapp:base_page.py:27 Clicking element with locator: ('xpath', "//a[.='See all QA jobs']") and timeout: 10
+[35mDEBUG   [0m myapp:base_page.py:18 Finding element with locator: ('xpath', "//a[.='See all QA jobs']") and timeout: 10
+[35mDEBUG   [0m myapp:base_page.py:30 Clicked element successfully.
+[35mDEBUG   [0m myapp:base_page.py:64 Scrolling to the element with locator: ('xpath', "//select[@id='filter-by-location']")
+[35mDEBUG   [0m myapp:base_page.py:18 Finding element with locator: ('xpath', "//select[@id='filter-by-location']") and timeout: 10
+[35mDEBUG   [0m myapp:base_page.py:67 Scrolled to the element with locator: ('xpath', "//select[@id='filter-by-location']")
+[35mDEBUG   [0m myapp:base_page.py:39 Selecting 'Istanbul, Turkey' from dropdown with locator: ('xpath', "//select[@id='filter-by-location']")
+[35mDEBUG   [0m myapp:base_page.py:18 Finding element with locator: ('xpath', "//select[@id='filter-by-location']") and timeout: 10
+[35mDEBUG   [0m myapp:base_page.py:46 Selected 'Istanbul, Turkey' successfully.
+[35mDEBUG   [0m myapp:base_page.py:39 Selecting 'Quality Assurance' from dropdown with locator: ('xpath', "//select[@id='filter-by-department']")
+[35mDEBUG   [0m myapp:base_page.py:18 Finding element with locator: ('xpath', "//select[@id='filter-by-department']") and timeout: 10
+[35mDEBUG   [0m myapp:base_page.py:46 Selected 'Quality Assurance' successfully.
+[35mDEBUG   [0m myapp:base_page.py:64 Scrolling to the element with locator: ('xpath', "//div[@id='jobs-list']/div")
+[35mDEBUG   [0m myapp:base_page.py:18 Finding element with locator: ('xpath', "//div[@id='jobs-list']/div") and timeout: 10
+[35mDEBUG   [0m myapp:base_page.py:67 Scrolled to the element with locator: ('xpath', "//div[@id='jobs-list']/div")
+[35mDEBUG   [0m myapp:base_page.py:50 Hovering over element with locator: ('xpath', "//p[contains(@class, 'position-title')]")
+[35mDEBUG   [0m myapp:base_page.py:18 Finding element with locator: ('xpath', "//p[contains(@class, 'position-title')]") and timeout: 10
+[35mDEBUG   [0m myapp:base_page.py:54 Hovered over element with locator: ('xpath', "//p[contains(@class, 'position-title')]")
+[35mDEBUG   [0m myapp:base_page.py:27 Clicking element with locator: ('xpath', "//a[.='View Role']") and timeout: 10
+[35mDEBUG   [0m myapp:base_page.py:18 Finding element with locator: ('xpath', "//a[.='View Role']") and timeout: 10
+[35mDEBUG   [0m myapp:base_page.py:30 Clicked element successfully.
+[35mDEBUG   [0m myapp:base_page.py:58 Switching to the newly opened tab.
+[35mDEBUG   [0m myapp:base_page.py:60 Switched to the new tab.

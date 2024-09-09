@@ -1,0 +1,8 @@
+[35mDEBUG   [0m myapp:base_page.py:26 Clicking element with locator: ('xpath', "//a[.='See all QA jobs']") and timeout: 10
+[35mDEBUG   [0m myapp:base_page.py:17 Finding element with locator: ('xpath', "//a[.='See all QA jobs']") and timeout: 10
+[35mDEBUG   [0m myapp:base_page.py:29 Clicked element successfully.
+[35mDEBUG   [0m myapp:base_page.py:62 Scrolling to the element with locator: ('xpath', "//select[@id='filter-by-location']")
+[35mDEBUG   [0m myapp:base_page.py:17 Finding element with locator: ('xpath', "//select[@id='filter-by-location']") and timeout: 10
+[35mDEBUG   [0m myapp:base_page.py:65 Scrolled to the element with locator: ('xpath', "//select[@id='filter-by-location']")
+[35mDEBUG   [0m myapp:base_page.py:38 Selecting 'Istanbul, Turkey' from dropdown with locator: ('xpath', "//select[@id='filter-by-location']")
+[35mDEBUG   [0m myapp:base_page.py:17 Finding element with locator: ('xpath', "//select[@id='filter-by-location']") and timeout: 10

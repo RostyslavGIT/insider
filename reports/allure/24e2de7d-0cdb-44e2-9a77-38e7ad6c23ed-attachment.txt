@@ -1,0 +1,2 @@
+request_client.py -> line: 35 | DEBUG | 2024-09-09 10:03 >>> Making POST request to https://petstore.swagger.io/v2/pet with payload {'id': 'invalid_id', 'name': 123, 'status': 'notastatus'}
+request_client.py -> line: 23 | ERROR | 2024-09-09 10:03 >>> Request failed: 500 Server Error: Server Error for url: https://petstore.swagger.io/v2/pet

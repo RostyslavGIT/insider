@@ -1,0 +1,1 @@
+[35mDEBUG   [0m myapp:request_client.py:29 Making GET request to https://petstore.swagger.io/v2/pet/123
